@@ -1,0 +1,23 @@
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.exe.config
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.pdb
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Form1.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Form2.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.pdb
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.exe.config
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.exe
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\bin\Debug\Osoboe_zadanie.pdb
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.AssemblyReference.cache
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.exe.config
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Form1.resources
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Form2.resources
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.Properties.Resources.resources
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.GenerateResource.cache
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.csproj.CoreCompileInputs.cache
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.exe
+E:\работы 3 курс\Разработка программных мод\Osoboe_zadanie\obj\Debug\Osoboe_zadanie.pdb
